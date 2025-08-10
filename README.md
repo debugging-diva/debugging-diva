@@ -1,3 +1,3 @@
 # 👋 Hello, I’m Snehalatha!
 
-👩‍🎓 Studying Computer Science at Mohan Babu University
+👩‍🎓 Currently working on scientific computing
